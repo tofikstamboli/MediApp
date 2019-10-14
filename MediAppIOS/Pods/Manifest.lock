@@ -1,0 +1,42 @@
+PODS:
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - Hero (1.4.0)
+  - iOSDropDown (0.2.7)
+  - Kingfisher (5.0.1)
+  - SearchTextField (1.2.2)
+  - SkyFloatingLabelTextField (3.6.0)
+  - Toast-Swift (4.0.1)
+
+DEPENDENCIES:
+  - FMDB
+  - Hero
+  - iOSDropDown
+  - Kingfisher
+  - SearchTextField
+  - SkyFloatingLabelTextField (~> 3.0)
+  - Toast-Swift (~> 4.0.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FMDB
+    - Hero
+    - iOSDropDown
+    - Kingfisher
+    - SearchTextField
+    - SkyFloatingLabelTextField
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  Hero: bac92350d7201a1a940003e0767c7b52ce7c99a1
+  iOSDropDown: 7a4cfc67d5166f319858747b63cd2f7760c4fb4b
+  Kingfisher: 4f771421b9208185217550528a06fd48756cb7c2
+  SearchTextField: a0992739d4b05dcbb40fb3a5cc6526bd991bdd23
+  SkyFloatingLabelTextField: 38164979b79512f9ff9288ad8acfc4bbf5d843e3
+  Toast-Swift: e42a638589a2f95036b4bb7626cfbdde7daf0393
+
+PODFILE CHECKSUM: 30d20db80bedef6e0cb06ef5f4ccba772a9dae34
+
+COCOAPODS: 1.6.1

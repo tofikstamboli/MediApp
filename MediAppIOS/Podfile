@@ -1,0 +1,17 @@
+# Uncomment the next line to define a global platform for your project
+ platform :ios, '10.0'
+
+target 'MediAppIOS' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for MediAppIOS
+	pod 'Hero'
+	pod 'Kingfisher' 
+	pod 'SearchTextField'
+	pod 'SkyFloatingLabelTextField', '~> 3.0'
+  pod 'Toast-Swift', '~> 4.0.0'
+  # pod 'DropDown'
+  pod 'iOSDropDown'
+  pod 'FMDB'
+end
